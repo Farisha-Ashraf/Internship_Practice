@@ -1,0 +1,26 @@
+Restaurant management
+
+step1: user credentials
+      1. create profile
+            1. user name 
+            2. valid emailID
+            3. set password
+      2. display"profile has been created"
+step2:order managemet
+      1. check the digital menu
+      2. add the items to mycart
+      3. enter the order confirmation captcha
+      4. recheck/confirm order
+      5. check the payment method
+      6. confirm method
+step3: Kitchen management 
+      1. check the orders
+      2. confirm availability
+      3. check the quality as well quantity
+step4: employee management 
+      1. create employee name
+      2. create employee id
+      3. create employee desgination
+      4. set employee age
+      5. set punching id for leave record maintainance
+      
