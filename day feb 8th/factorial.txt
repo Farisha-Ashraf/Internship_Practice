@@ -1,0 +1,9 @@
+step1:start
+step2:declare i,n,fact
+step3:read n
+step4:intialize i=1,fact=1
+step5:check i value with n if i<=n true goto step6 else goto step8
+step6:fact=fact*i
+step7:increment i goto step5
+step8:display fact value
+step9:stop

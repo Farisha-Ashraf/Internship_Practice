@@ -1,0 +1,49 @@
+Library Management System 
+usecases: read the book search for books borrowing books 
+arranging books assign numbers to books return the issued books
+
+
+step1:User set up:
+      1. create profile
+              1. Username 
+              2. emailID
+      2. set up password
+      3. set up verification security code
+      4. set up userID
+      5. print "Hurray you've logged in"
+step2:Add book information 
+      1.Enter the count of books to be added
+      2.Enter the book name 
+      3.Enter the author name
+      4.Enter the price
+      5.Enter the library code for the respective book
+      6.Enter the page count
+      7.print"successfully added"
+step3:Delete book
+      1.Enter library code
+      2.enter book name
+      3.enter author name
+      4.print"successfully deleted"
+step4:Issue book
+      1.Enter userID
+      2.note the time duration
+      3. enter book name
+      4. enter author name
+      5. print"enjoy reading"
+step5:check of availability
+      1. count of total books
+      2. count of issued books
+      3. count of books in the library
+      4. print"the available books are"
+step6:Rest Password
+      1. enter your emailID
+      2. enter your UserID
+      3. get verfication code
+      4. enter new password
+      5. confirm password
+      6. print"you're password is reseted"
+step7:Return book
+      1. enter your userID
+      2. Enter book name
+      3. enter author name
+      4. check the time duration of return

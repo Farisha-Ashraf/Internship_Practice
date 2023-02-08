@@ -1,0 +1,9 @@
+step1: start
+step2: decalre i,n,sum;
+step3: read n
+step4: initialize sum variable with zero,sum=0;
+step5: check i value with n if(i<=n) && if (x%2 != 0) goto step 6 if true if false go to step8
+step6: sum=sum+i
+step7: increment i and go to step5
+step8:display sum;
+step9: stop;

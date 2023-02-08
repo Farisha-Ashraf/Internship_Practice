@@ -1,0 +1,15 @@
+step1:start
+step2: decalre gross salary, basic salary, dearness allowance,house rent allowance;
+step3: read gross salary, basic salary, dearness allowance,house rent allowance;
+step4: to find gross salary 
+ if(BasicSal<=10000)
+       Gross Salary = Basic Salary + Dearness allowance + House Rent Allowance.
+   
+      Display GS
+      elseif(BasicSal<=20000)
+         Gross Salary = Basic Salary + Dearness allowance + House Rent Allowance;
+      Display GS
+       elseif(BasicSal>20000)
+         Gross Salary = Basic Salary + Dearness allowance + House Rent Allowance;
+     Display GS
+step5:stop

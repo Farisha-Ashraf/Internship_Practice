@@ -1,0 +1,42 @@
+ATM transactions algorithm
+
+step1: Dashboard
+      1.display" Wecome to BANK OF BARODA Bank ATM"
+                 Enjoyy your money transactions
+      2.press NEXT
+step2:voice Languages
+      1. select any one language
+              1. English
+              2. Kannada
+              3. Hindi
+      2.display "Thank you for your response"
+step3: Account details
+      1. select your account type
+              1. savings
+              2. current
+      2.press NEXT
+step4: Available Transactions
+       select your transaction
+            1. withdrawal
+                  1. enter the amount to be withdrawed
+                  2. enter your pin number
+                  3.display"thank you for your transactions"
+            2. deposit
+                  1. enter the amount 
+                  2. enter the pin number
+                  3. enter your pin number
+                  4. display"thank you your money is safe with us"
+            3. transactions & payments
+                  1. enter your account number
+                  2. enter user name
+                  3. enter your pin number
+                  5. display "here is your history"
+                  
+            4. reset pin number
+                  1. enter old four digit pin number
+                  2. enter your verfication mobile number
+                  3. enter your otp
+                  4. enter new pin number
+                  5. confirm pin number
+                  6. display"your new pin number is created"
+Step5: didplay"thank you for your valuable time"

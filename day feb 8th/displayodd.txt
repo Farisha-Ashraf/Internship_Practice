@@ -1,0 +1,8 @@
+step1: start
+step2: decalre i,n;
+step3:read n
+step4: initialize value i=1
+step5: check i value of n if(i<=n) && if if(i%2!=0) true go to step6 if false go to step 8 if true to step6
+step6: increment i and to step 5 
+step8:display i
+step9: stop
