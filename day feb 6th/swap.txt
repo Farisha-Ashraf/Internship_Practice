@@ -1,0 +1,16 @@
+step1; start;
+step2; declare two variables a, b;
+step3; read valus of a, b;
+step4; declare a variable temp=a, a=b , b=temp;
+step5; display a,b;
+step6; stop;
+
+without using third variable
+step1; start ;
+step2: declare a, b; 
+Step 3: read values a, b ;
+Step4: a = a + b ;
+Step 5: b= a - b ;
+Step 6: a =a - b;
+Step 7: display a,b; 
+Step 8: stop;

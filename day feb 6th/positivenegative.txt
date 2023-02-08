@@ -1,0 +1,8 @@
+step1: start
+step2: decalare variable n;
+step3: read value n;
+step4: if (n>0)
+          display number is postive
+step5: else if(n<0)
+          display number us negative
+step6: stop

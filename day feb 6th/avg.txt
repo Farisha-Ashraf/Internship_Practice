@@ -1,0 +1,18 @@
+step1: start
+step2: declare variable average ,percentage, grade;
+step3: read s1,s2,s3,s4,s5,maximum marks;
+step4: (average= total/5)
+        //display the average of the subjects
+step5: percentage = (s1+s2+s3+s4+s5/ maximum marks)
+step6: check grades 
+  if(per>=90 and per<=100)
+       display Grade A
+      else if(per>=80  and per<=90)
+       display Grade B
+      else if(per>=70  and per<=80)
+       display Grade C
+      else if(per>=60  and per<=70)
+       display Grade D;
+      else 
+       display fail;
+step6: stop

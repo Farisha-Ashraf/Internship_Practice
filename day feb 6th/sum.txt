@@ -1,0 +1,6 @@
+Step1: start;
+step2:declare variables num1,num2,sum;
+step3: read num1, num2;
+step4: add two numbers and store variables sum=num1+num2;
+step5: display sum;
+step6: stop;

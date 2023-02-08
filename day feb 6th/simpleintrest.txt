@@ -1,0 +1,6 @@
+Step 1 : start
+Step 2 : Declare variables  p , n , r  and  si .
+Step 3 : Read the values of variable  p ( principal ) , n ( Number of years ) , r ( Rate of Interest ) .
+Step 4 : calculate the values of  “ si = ( p * n * r )/100 “ .
+Step 5 : Display si ( simple interest ) .
+Step 6 : stop

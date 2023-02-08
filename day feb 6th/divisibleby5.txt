@@ -1,0 +1,8 @@
+step1:start
+step2: declare a variable num;
+step3: read value of num;
+step4: check if(num%5==0)
+      display the number is divisible by 5
+  else
+      cannot be displayed by 5
+step5: stop

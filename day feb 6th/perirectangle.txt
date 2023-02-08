@@ -1,0 +1,6 @@
+step1: start
+step2: declare l,b, peri
+step3: read l,b
+step4: peri=2 * ( l + b )
+step5:display peri
+step6:stop

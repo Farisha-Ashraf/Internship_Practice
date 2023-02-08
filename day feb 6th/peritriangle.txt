@@ -1,0 +1,6 @@
+step1: start
+step2: declare size,base,height,peri
+step3: read size,base,height
+step4: peri=size+base+height
+step5: display peri
+step6: stop

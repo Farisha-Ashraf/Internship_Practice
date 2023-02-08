@@ -1,0 +1,6 @@
+step1: start
+step2: declare side, peri
+step3: read side
+step4: peri=4*side
+step5: display peri
+step6: stop
