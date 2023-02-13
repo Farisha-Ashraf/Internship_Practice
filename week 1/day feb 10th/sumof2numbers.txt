@@ -1,0 +1,6 @@
+BEGIN
+    DECLARE Num1,num2,Sum;
+    READ num1,num2;
+    CALCULATE sum=num1+num2 
+    DISPLAY "sum"
+END

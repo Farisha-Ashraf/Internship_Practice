@@ -1,0 +1,9 @@
+BEGIN
+    DECLARE i,n;
+    READ n;
+    INITIALIZE i=1
+    WHILE(i<=n && i%2!=0) DO
+      DISPLAY i
+      INCREMENT i=i+1
+  END WHILE
+END

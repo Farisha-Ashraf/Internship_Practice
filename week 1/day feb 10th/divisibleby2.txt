@@ -1,0 +1,16 @@
+BEGIN
+    DECALRE n;
+    READ N;
+    IF n%2==0 THEN
+      DISPLAY divisible by 2
+    else
+      DISPLAY not divisible by 2
+END
+
+
+
+
+
+
+
+
