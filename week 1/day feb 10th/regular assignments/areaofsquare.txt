@@ -1,6 +1,0 @@
-BEGIN
-    DECLARE side,area;
-    READ side;
-    CALCULATE area=side*side;
-    DISPLAY"area"
-END

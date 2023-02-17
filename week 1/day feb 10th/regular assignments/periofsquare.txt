@@ -1,6 +1,0 @@
-BEGIN
-  DECLARE side;
-  READ side;
-  CALCULATE perimeter = 4*side;
-  DISPLAY perimeter;
-END

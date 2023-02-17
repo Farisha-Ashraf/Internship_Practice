@@ -1,6 +1,0 @@
-BEGIN
-  DECLARE side1,base,side2,perimeter;
-  READ side1,base,side2;
-  CALCULATE perimeter = side1+base+side2;
-  DISPLAY perimeter;
-END

@@ -1,6 +1,0 @@
-BEGIN
-    DECLARE l,b,area;
-    READ l,b;
-    CALCULATE area=l*b;
-    DISPLAY "area";
-END

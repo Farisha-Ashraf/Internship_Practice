@@ -1,6 +1,0 @@
-BEGIN
-  DECLARE l,b,perimeter;
-  READ l,b;
-  CALCULATE perimeter=2(l+b);
-  DISPLAY perimeter;
-END

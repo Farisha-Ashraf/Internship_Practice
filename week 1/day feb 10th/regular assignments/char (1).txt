@@ -1,9 +1,0 @@
-
-BEGIN
-    DECLARE char;
-    READ char;
-    IF char=='t'
-      DISPLAY char is 't'
-    ELSE
-      DISPLAY char is not 't'
-END
